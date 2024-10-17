@@ -1,5 +1,5 @@
 ## QUEUE
-Send mail from laravel queue
+Send mail from  queue
 
 ## OBSERVERS
 
