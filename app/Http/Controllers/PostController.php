@@ -30,6 +30,7 @@ class PostController extends Controller
      */
     public function store(Request $request)
     {
+        //an observer is listening to send an email
         $post = new Post();
         $post->title = 'Test Title';
         $post->description = 'Test description';
